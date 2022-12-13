@@ -1,0 +1,3 @@
+Testovací soubor 1
+
+Běžný text kódovaný v UTF-8
